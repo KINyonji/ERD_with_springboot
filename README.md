@@ -1,4 +1,4 @@
-# ERD_with_springboot
+# ERD_with_springboot (Intellij)
 
 ### 프로젝트
 
